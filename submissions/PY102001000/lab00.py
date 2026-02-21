@@ -1,17 +1,3 @@
-"""
-Lab 00 — Submission Test
-
-Purpose:
-- Verify that you can upload a file
-- Verify correct file name and folder
-- Verify that GitHub Pull Request works
-
-Instructions:
-1. Do NOT change the function name.
-2. Do NOT print anything.
-3. Only modify the return value if needed.
-"""
-
 
 def submission_check():
     """
@@ -20,5 +6,6 @@ def submission_check():
     Example:
     "PY102001001"
     """
+    # testing grade scores. 
     return "PY102001000"
 
